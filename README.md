@@ -8,22 +8,22 @@ Development technique implementation of features and software application's beha
 
 ### TDD
 
-- [01: Running Test with Nose](tdd-vs-bdd/01_running_tests_with_nose/README.md)
-- [02: Writing Test Assertions](tdd-vs-bdd/02_writing_test_assertions/README.md)
-- [03: Creating an Initial State Using Text Fixtures](tdd-vs-bdd/03_test_fixtures/README.md)
-- [04: Running Test Cases with Coverage](tdd-vs-bdd/04_test_coverage/README.md)
-- [05: Using Factories and Fakes](tdd-vs-bdd/05_factories_and_fakes/README.md)
+- [01: Running Test with Nose](tdd-vs-bdd/running_tests_with_nose/README.md)
+- [02: Writing Test Assertions](tdd-vs-bdd/writing_test_assertions/README.md)
+- [03: Creating an Initial State Using Text Fixtures](tdd-vs-bdd/test_fixtures/README.md)
+- [04: Running Test Cases with Coverage](tdd-vs-bdd/test_coverage/README.md)
+- [05: Using Factories and Fakes](tdd-vs-bdd/factories_and_fakes/README.md)
 - [06: Mocking Objects](tdd-vs-bdd/06_mocking_objects/README.md)
-- [07: TDD](tdd-vs-bdd/07_practicing_tdd/README.md)
+- [07: TDD](tdd-vs-bdd/practicing_tdd/README.md)
 
 ### BDD
 
-- [08: Environment setup](tdd-vs-bdd/08_environment_setup)
-- [09: Writing feature file](tdd-vs-bdd/09_writing_feature_files)
-- [10: Loading test data](tdd-vs-bdd/10_loading_test_data)
-- [11: Generating steps](tdd-vs-bdd/11_generating_steps)
-- [12: Implementing steps](tdd-vs-bdd/12_implementing_steps)
-- [13: Variable substitution](tdd-vs-bdd/13_variable_substitution)
+- [08: Environment setup](tdd-vs-bdd/environment_setup)
+- [09: Writing feature file](tdd-vs-bdd/writing_feature_files)
+- [10: Loading test data](tdd-vs-bdd/loading_test_data)
+- [11: Generating steps](tdd-vs-bdd/generating_steps)
+- [12: Implementing steps](tdd-vs-bdd/implementing_steps)
+- [13: Variable substitution](tdd-vs-bdd/variable_substitution)
 
 ## Development Environment
 
