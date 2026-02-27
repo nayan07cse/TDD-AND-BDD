@@ -47,4 +47,4 @@ For the **BDD** you will need to run the following commands to create the proper
 bash bin/setup.sh
 ```
 
-Then exit that terminal and open a new one to activate the virtual environment.
+Then exit that terminal and open a new one to activate the virtual environment 
