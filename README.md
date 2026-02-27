@@ -1,5 +1,5 @@
 # TDD-AND-BDD
-Development technique implementation of features and software application's behavior.
+Development technique implementation of features and software application's behavior. Main focus is on system requirements and  unit test.
 
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
